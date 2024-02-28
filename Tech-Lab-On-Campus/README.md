@@ -25,7 +25,9 @@ The idea of this lab is to offer exposure to the RabbitMQ messaging framework, p
 - Docker
 
 ## Setting Up Our Environment
-For this project, we're going to leverage the use of Docker to create a helpful development environment for all of the engineers. [Docker](https://docs.docker.com/desktop/) is a tool used to integrate software dependencies and allow developers to quickly spin up software builds in portable lightweight containers which provide consistent environments, ensuring applications run the same way across various platforms. 
+For this project, we're going to leverage the use of Docker to create a helpful development environment for all of the engineers. 
+editing read me
+[Docker](https://docs.docker.com/desktop/) is a tool used to integrate software dependencies and allow developers to quickly spin up software builds in portable lightweight containers which provide consistent environments, ensuring applications run the same way across various platforms. 
 
 1. Fork the repo
 ![fork](../data/Images/fork-1.JPG)
